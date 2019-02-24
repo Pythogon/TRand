@@ -1,6 +1,6 @@
 import turtle, random
 arr = []
-num = 9
+num = 10
 for x in range(0,num):
     arr.append(turtle.Turtle())
     arr[x].speed(0)
